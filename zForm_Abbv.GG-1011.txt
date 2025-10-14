@@ -1,0 +1,1471 @@
+
+!!!-E-R-R-O-R !!!! 
+~~
+MSFT form/abv1234.001	for MSFT application writing
+
+
+Fast Space List (abv + space bar)
+~`~ [02]		~~	 over 100
+~`~ [003]		~~	
+~ ~ _____________~~
+
+New for formABV
+`:
+***
+
+LOG
+
+Monday, February 02, 2015
+11/16/2019 3:10 PM
+                                                                    ||||||||
+.... rest of progress is at end of document	vvvvvvv
+
+
+Collected COMMON abv's (find dot 3X*X) z1234
+
+1X*X*X*X*X*X*X*X*  z1234  (alt ctrl / ;and then ctrl /)
+
+~std~ Claim/s 6 depend/s from claim 1.  Therefore, claim 6 is distinguishable from X1 and X2 
+for the same reasons as claim 1. Applicant further asserts that X3 does not remedy the 
+deficiencies of X1 and X2~~
+~aha~ as here amended)~~
+~sel~ selectively~~
+~(/~ (and/or ~~
+~inx~ indicating ~~
+~asg~ assigned ~~
+~dyo~ directly or indirectly~~
+~prr~ presented ation~~
+~acc~ according to~~
+~pvx~ providing ~~
+~ix~ including ~~
+~pra~ present application ~~
+~prd~ present disclosure of~~
+~g1~ configuration ~~
+~hhh~ he/she ~~
+~dfx~ defining ~~
+~dody~ directly or indirectly~~
+~si~ simultaneously ~~
+~aka~ (a.k.a. ~~ (also known as)~~
+~nec~ necessarily~~
+~io~ user-information input~~
+~ req~ required ested~~
+~rprd~ represented by~~
+~bec~ become ~~
+~con~ continue~~
+~ia~ interaction ~~
+~temp~ temporarily ~~
+~ap~ appreciate ~~
+~mss~ more specific ~~
+~op~ optionally~~
+~how~ however, ~~
+~dr~ directly ~~ directed to~~
+~yms~ Yet more specifically, ~~
+~tg~ together ~~
+
+~gen~ generate ~~
+~tw~ therewith ~~
+~eq~ equivalent ~~
+~avv~ available ~~ 
+~bot~ bottom ~~
+~in~ indicated~~
+~lut~ lookup table (LUT)~~
+~idy~ identified ying~~
+~dii~ difference~~
+~att~ attribute~~
+~mbp~ may be provided ~~
+~ s~ specification~~ said ~~
+~R~ received~~ recognized ~~ recipients ~~ 
+~ v~ wherein ~~ against ~~
+~ V~ against ~~ wherein ~~
+
+2X*X*X*X*X*X*X*X*
+
+***
+~pd~ predetermined~~ present disclosure~~
+~oc~ of course,~~
+~icw~ in conjunction with~~
+~oto~ On the other hand,~~
+
+~fu~ further ~~
+~ott~ another ~~
+~ot~ other ~~
+~oott~ one another~~
+~oton~ one to the next~~
+
+~bl~ backlighting ~~
+~mu~ multi-user ~~microstructure ~~
+~ D~ direction ~~ Office action ~~
+~spa~ spaced apart ~~
+~spar~ spaced apart relationship~~
+~pv~ provided~~
+~te~ teachings~~
+~pte~ the present teachings~~
+~xp~ transparent ~~
+
+~do~ disclosure of ~~
+~pdo~ present disclosure of~~
+~pcv~ perceived ~~
+~ex~ extending~~
+~adj~ adjacent ~~
+
+
+
+
+~wrt~ With regard to ~~
+~wrtc~ With regard to Claim~~
+
+~oa~ Office action ~~
+~sp~ specific ied~~ subpixel ~~
+
+~dd~ disposed ~~
+~iy~ integrally ~~
+
+
+~eh~ each ~~
+~ehot~ each other~~
+~eho~ each of the other~~
+~ual~ upper and lower ~~
+
+
+~gl~ gate line~~
+~dl~ downlink ~~ data line~~
+~ge~ gate electrode~~
+~se~ source electrode~~
+~de~ drain electrode~~
+
+~th~ thereby~~
+~di~ different ~~
+~be~ being ~~
+~tf~ that of ~~
+~ivd~ interposed ~~
+~df~ defined~~
+~irs~ it is respectfully submitted~~
+
+~c1~ Claim 1~~
+~c2~ Claim 2~~
+~c3~ Claim 3~~
+~c4~ Claim 4~~
+~c5~ Claim 5~~
+~c6~ Claim 6~~
+~c7~ Claim 7~~
+~c8~ Claim 8~~
+~c9~ Claim 9~~
+
+~c11~ Claim 1 recites, "~~
+~c22~ Claim 2 recites, "~~
+~c33~ Claim 3 recites, "~~
+~c44~ Claim 4 recites, "~~
+~c55~ Claim 5 recites, "~~
+~c66~ Claim 6 recites, "~~
+~c77~ Claim 7 recites, "~~
+~c88~ Claim 8 recites, "~~
+~c99~ Claim 9 recites, "~~
+
+~rrr~ Reconsideration is respectfully requested.~~
+
+~dt~ determined~~ 
+~//~ under stand stood pinning~~
+~//~ underneath~~
+~//o~ under or over~~
+~///~ bottom ~~
+~\\~ top ~
+
+
+~tos~ teaches or suggests~~
+~thu~ therethrough ~~
+~tee~ teaches~~
+~bee~ between ~~
+
+~pu~ purpose ~~
+~inc~ incorporate ~~
+~ph~ physical ~~ PHOSITA ~~
+~cf~ color filter~~
+~wp~ white pixel~~
+~diy~ differently ~~
+~ht~ here taught~~
+~wo~ without ~~
+~wohi~ without aid of hindsight~~
+~hpac~ hindsight based picking and choosing~~
+~pac~ selectively pick and choose~~
+~pacx~ picking and choosing ~~
+
+~ px~ pixel unit~~
+
+~ch~ contact hole ~~
+~lp~ light-passing ~~
+~lpz~ light-passing substrate~~
+~sy~ similarly ~~
+~sv~ supplied~~
+
+
+
+~ir2~ is responsive to~~
+~iaw~ in accordance with~~
+~afc~ and further comprising~~
+~seq~ sequence ~~
+~ady~ Additionally, ~~
+
+
+~sad~ source and drain ~~
+
+~phx~ Person Having Ordinary Skill in the Art (PHOSITA)~~
+
+~b4~ before ~~ xx 
+~b5~ after ~~
+
+~t0~ thereof ~~
+~t1~ therein ~~
+~t2~ thereto ~~
+~t3~ therefrom ~~
+~t4~ therefore ~~
+~t44~ therefrom ~~  (z1234)
+~t5~ thereafter ~~
+~t6~ therebefore~~
+
+
+
+
+~h1~ herein ~~
+~h2~ hereto ~~
+~h3~ herefrom ~~
+~h4~ heretofore ~~
+~h5~ hereafter ~~
+~h6~ herebefore~~
+
+~pdf~ predefined ~~
+~pdt~ predetermined ~~
+
+
+~po~ portion of the~~
+
+
+~miy~ monolithically integrated~~
+~imy~ immediately ~~
+
+~g2~ configured to~~
+
+~goff~ gate turn off voltage level, VGoff~~
+~gon~ gate turn on voltage level, VGon~~
+
+****
+
+~ff~ fact-finding ~~
+~fof~ finding of fact~~
+~pr~ present ~~
+~prd~ present disclosure ~~
+
+~ir2~ in response to ~~
+~ r2~ responsive to ~~
+
+~csj~ claimed subject matter ~~
+~it~ input terminals~~
+~3s~ tristate ~~
+~av~ applied ~~
+~sw~ software ~~ sidewall~~
+~epub~ early publication ~~
+~eepub~ corresponding early publication US~~
+
+~t5~ thereafter ~~
+
+~dy~ directly ~~
+~iv~ interposed ~~
+~mbf~ may be found for example~~
+
+~h11~ (herein also referred to as ~~
+
+~ad~ additional ~~
+~pw~ password ~~
+
+~ad~ additional ~~
+~aka~ a.k.a. ~~
+~cy~ currently ~~
+~ee~ example~~
+~ol~ online ~~
+~et~ etc.)~~
+~cx~ cross-correlation~~
+~ bx~ By way of example, ~~
+~dp~ data processing ~~ display panel ~~
+~dpd~ data processing device~~
+~opt~ optionally~~
+~iny~ incidentally~~
+~conj~ conjunction ~~
+~uu~ users ~~
+~dff~ definition ~~
+~eee~ exemplary ~~
+~wh~ whether ~~
+~ew~ elsewhere ~~
+~act~ activated~~
+~ly~ logically ~~
+*-*-*-*-*-*-*-*-*-
+
+~t9~ thereon ~~
+~foa~ Final Office action ~~
+~afc~ and further comprising:~~
+~lcd~ Liquid Crystal Display (LCD)~~
+~lc~ liquid crystal~~
+~lca~ liquid crystal material~~
+~ttt~ therethrough ~~
+
+*-*-*-*-*-*-*-*-*- *-*-*-*-*-*-*-*-*-
+~hi~ hindsight ~~
+~hii~ However, in the context of 35 USC §103, it is not what a reference "discloses" in a 
+hindsight selected part thereof that counts, but rather what the reference taken as a whole fairly 
+"teaches" to one of ordinary skill that counts.~~
+~ehh~ each and every ~~
+
+
+~rpr~ represent~~
+
+~tg~ together ~~
+~gen~ generate ~~
+~tw~ therewith ~~
+~eq~ equivalent ~~
+~avv~ available ~~ 
+~bot~ bottom ~~
+~in~ indicates~~
+~lut~ lookup table (LUT)~~
+~idy~ identifying~~
+~dii~ difference~~
+~att~ attribute~~
+~mbp~ may be provided ~~
+~bu~ business oriented~~
+~ly~ logically ~~
+
+~ap~ appreciated ~~
+~mss~ more specific ~~
+~op~ optionally~~
+~how~ however, ~~
+~dr~ directed~~
+~yms~ Yet more specifically, ~~
+~tg~ together ~~
+
+~gen~ generate ~~
+~tw~ therewith ~~
+~eq~ equivalent ~~
+~avv~ available ~~ 
+~bot~ bottom ~~
+~in~ indicates~~
+~lut~ lookup table (LUT)~~
+~idy~ identify~~
+~dii~ difference~~
+~att~ attribute~~
+~mbp~ may be provided ~~
+~bu~ business oriented~~
+
+
+
+
+
+3X*X*X*X*X*X*X*X*
+
+*X*X*X*X*X*X*
+
+  LONG ABBREVIATIONS
+For All Applications:
+
+*************************
+~..~ 	>>	~~
+~>>~ 	<<*>>	~~
+~??~  ___?? ~~
+************************
+
+AA=
+~ato~ at least one ~~
+~at2~ at least two~~
+~at3~ at least three~~
+~at4~ at least four~~
+~al~ Although~~
+~at~ at least ~~
+
+~ac~ above-cited~~
+~ ac~ above-cited U.S. Pat. No. 6,xxx,xxx~~
+~ae~ appropriate~~
+~aka~ according to Claim * ~~
+~adv~ advantage~~
+~ass~ associated ~~
+~am~ above-mentioned ~~
+~ans~ although not shown, ~~
+~aa~ Alternatively or additionally,~~
+
+
+BB=
+
+
+~bw~ bandwidth ~~ by way of ~~
+~ by~ "by-itself" ~~
+~2B~ TO BE CONTINUED~~
+~2b~ to be~~
+
+CC=
+~cb~ can be ~~
+~cbu~ can be used ful~~
+~cod~ carried out ~~
+~co~ carry out~~
+~c1~ Claim 1~~
+~cl~ col. *, line* ~~
+~ cl~ (col. *, line*) ~~
+~col~ col. *, line* ~~
+~Col~ Col. *, line* ~~
+
+
+DD=
+~disy~ disadvantageously ~~
+~ dis~ disadvantageous~~
+
+~eg~ for example ~~
+
+II=
+~ic~ in-cloud ~~
+~iow~ In other words, ~~
+~ii~ incidentally,~~
+~ii~ inverted and non-inverted ~~
+~iob~ In one embodiment, ~~
+~iab~ In an alternate embodiment, ~~
+~isob~ In one subspecies of this embodiment, ~~
+~ini~ in accordance with ~~
+~inin~ in accordance with the disclosure~~
+~itu~ It is to be understood that ~~
+~itm~ it may be appreciated that ~~
+~iti~ It is to be understood that ~~
+~itc~ it is within the contemplation of the disclosure that ~~
+
+
+~lh~ logic high ("1") ~~
+~ll~ lines ~~ logic low ("0") ~~
+
+~mb~ may be~~
+~mbu~ may be used~~
+~ms~ More specifically,~~
+~mn~ means~~
+
+
+~mm~ multimedia ~~ means~~
+~mi~ machine-implemented~~
+~mco~ method comprising the steps of: ~~
+~m=f~ means plus function ~~
+
+~nn~ nonetheless~~
+~ny~ namely, ~~
+~ntoss~ neither teaches nor suggests ~~
+
+~ow~ otherwise~~
+~oc~ of course,~~
+~oo~ on the other hand, ~~
+~orj~ obviousness rejection ~~
+~ov~ obviousness ~~
+~oth~ , on the other hand, ~~
+~oto~ On the other hand,~~
+
+~pd~ present disclosure~~
+~ps~ pre-specified~~
+~py~ preferably ~~
+
+~sj~ subject matter ~~
+~sw~ software~~
+~sa~ such as~~
+~st~ such that ~~
+~sas~ such as shown at ~~
+~sc~ so-called, ~~
+~seg~ See for example ~~
+~saa~ (see also Fig. 2A)~~
+
+TT=
+~tt~ to be ~~
+~tbd~ to-be-described ~~
+~2b~ to be ~~
+~2bi~ to-be-implemented~~
+~2m~ two or more ~~
+
+~wit~ within the contemplation~~
+~witt~ within the contemplation of the present disclosure~~
+~wrs~ With respect to ~~
+
+
+
+New for formABV.001
+***
+~ogr~ outstanding grounds of rejection ~~
+~doz~ does not teach or suggest ~~
+~ x~ reference~~ 
+
+
+For this Application
+****
+
+
+* new macro: Swab (swap front/end abvs)
+A:
+a:
+
+
+
+
+a
+~twa~ teaches away ~~
+
+~tech~ Technology~~
+~DD~ organic light emitting diodes display 
+(OLEDD)~~
+~lee~ light emitting elements~~
+
+~i2~ in response to~~
+~sg~ schematic diagram~~
+~cc~ CoMPTL's circle~~
+~ro~ respective ones of~~
+~vis~ (visited on or about d2)~~
+~faith~ The ordinary artisan who faithfully 
+follows the teachings of *** will not be led to 
+the subject matter of Claim ~~
+
+~&&~ combining ed~~
+~ww~ which is~~
+~dv~ display device ~~
+~if~ interface ~~
+~to~ that of ~~
+~spr~ subpixel rendering ~~
+~prt~ present teachings ~~
+~comm~ communicates ion~~
+~id~ identification~~
+~g3~ configuration ~~
+~fb~ feedback ~~
+~tb~ therebetween ~~
+~ag~ application Fig.~~ algorithm ~~
+~ls~ light source ~~
+
+~mbs~ may be seen ~~
+~ddd~ does not disclose ~~
+
+~rce~ Continued examination (RCE) is 
+requested.~~
+
+
+~eaaa~ [Bracketed text and emphasis added, 
+some text skipped.]~~
+~sts~ , some text skipped~~
+
+
+~w1~ wherein ~~
+~w2~ with respect to ~~
+~w3~ with regard to ~~
+~w4~ wherefore from~~
+
+~sel~ selectively ed ~~
+
+~dis~ Claims 2-xxx depend from Claim 1 and 
+are distinguishable at least for reasons similar to 
+those presented for Claim 1.~~ distinguishes ~~
+
+~wrtcc~ With regard to Claim 16, it is amended 
+to recite, among other  things, "*"~~
+
+~iz~ individualized~~
+~fuc~ further comprising:~~
+~sel~ selectively~~
+~aw~ as well as ~~
+~dtx~ determining ~~
+~abv0~ abv1 abv2 abv0~~
+~ pd~ present disclosure ~~
+~(/~ (and/or ~~
+~fx~ follows ing~~
+~inx~ indicating ~~
+~asg~ assigned ~~
+~dyo~ directly or indirectly~~
+~prr~ presented ation~~
+~acc~ according to~~
+~pvx~ providing ~~
+~ix~ including ~~
+~by~ by way of~~
+~aha~ as here amended~~
+~exp~ expressed ~~
+~exl~ explained nation~~ 
+~rprx~ representing ~~
+~g4~ configured for ~~
+~ort~ ordinary artisan~~
+~ry~ respectfully~~
+~rs~ remote-side ~~ respectfully submitted~~
+~rr~ remote resources ~~ respectfully 
+requested~~
+~hb~ has been~~
+~mhb~ may have been ~~
+~but~ including, but not limited to, ~~
+~mbp~ may be provided ~~
+~is~ instantiated ~~ is shown~~
+~mo~ Moreover, ~~
+~sn~ silicon nitride~~
+~ady~ Additionally, ~~
+~ada~ additionally or alternatively,~~
+~~
+~as~ as such~~
+~wi~ within ~~
+~afc~ and further comprising:~~
+~pa~ polygonal area~~
+~pe~ P/PAS emitter~~
+~re~ repair electrode ~~
+~rv~ repair voltage~~
+~q4~ [Questions for the inventor(s):~~
+
+~.~ the ~~
+~ce~ common electrode~~
+~sd~ source/drain~~
+
+~hd~ host device ~~
+~do~ disclosure of ~~
+~3j~ 3D imaging~~
+~pcv~ perceived ~~
+~vp~ viewing position~~
+~xx~ cross section ~~ y/x ~~
+~ea~ [emphasis added]. ~~
+~3d~ three-dimensional (3D)~~
+~2d~ two-dimensional (2D)~~
+~1u~ first user ~~
+~ui~ user interface~~
+~rce~ Continued examination (RCE) is 
+requested. ~~
+~db~ database ~~
+~prx~ presenting ~~
+~my~ machine system ~~
+~ar~ automatically and repeatedly~~
+~hw~ hardware ~~
+~fw~ firmware ~~
+~vm~ virtual machines~~
+~os~ operating system (OS) ~~
+
+~cox~ carrying out ~~
+~Irs~ It is respectfully submitted that ~~
+~all~ around lines ~~
+~eas~ [Emphasis added, some text skipped.]~~
+~ul~ uplink ~~
+~How~ However, ~~
+~c111~ Claim 10 depends from claims 1/9 and 
+recites, "~~
+~gw~ gateway ~~
+~ng~ non-geostationary~~
+~bs~ beacon signal~~
+~bz~ beacon signal ~~
+~rgs~ requested goods and/or services ~~
+~hh~ his/her ~~
+~pmd~ personal mobile device~~
+~dtt~ determinations~~
+~req~ requirements ested~~
+~rd~ recipient's device 262 ~~
+~pas~ presence-advertising signal~~
+~gsp~ goods/services provider~~
+~md~ mobile device ~~
+
+~gs~ goods/services ~~
+~ci~ charge-incurring manner~~
+~pg~ pay-go-whenever-ready (PGWeR) 
+basis~~
+~cia~ charge-incurring activity ies~~
+~2a~ second area ~~
+~1a~ first area ~~
+~incx~ incorporated-by-reference ~~
+~bx~ substantial proximity ~~
+~spy~ specifically ~~
+~spi~ specific identifications~~
+~r1~ R1 records~~
+~r2~ R2 records~~
+~grd~ GPS position reporting device ~~
+
+
+~cu~ customer ~~
+~bj~ substantially adjacent ~~
+~pda~ predetermined as~~
+
+~ttu~ to be used ~~
+~bb~ substantially same ~~
+~us~ under-stress ~~
+
+~br~ breaker roller ~~
+~fcs~ flux conducting structure ~~
+~fm~ ferromagnetic materials ~~
+~mg~ magnetic gaps ~~
+~fcm~ flux conducting member ~~
+~mbr~ magnetic breaker rollers~~
+~.~ @~~
+
+~..~ @~~
+~..~ @~~
+~.~ @~~
+~.~ @~~
+~.~ @~~
+~.~ @~~
+~.~ @~~
+~.~ @~~
+~.~ @~~
+~.~ @~~
+~.~ @~~
+~.~ @~~
+
+
+~ay~ alternatively ~~
+~axa~ alternatively or additionally~~
+~as~ as such~~
+~wi~ within ~~
+~by~ by way of example~~
+~ib~ including but not limited to:~~
+~pi~ present invention ~~
+
+~cs~ client-side ~~
+~bc~ By contrast, ~~
+~asap~ as soon as possible ~~
+~ss~ At step 5~~
+~ag~ algorithm~~
+~asl~ amorphous silicon layer ~~
+
+o:
+Alt-CTRL /  z1234 
+pick ~twa
+then Ctrl /
+
+5/2/2014 4:08 PM  (d2)
+
+TEMPLATE
+b:
+~bl~ barrier layer~~
+
+p:
+~pan~ positive and negative ~~
+
+c:
+~cote~ coefficient of thermal expansion~~
+~cp~ central point~~
+
+
+q:
+
+d:
+~da~ display area ~~
+~ds~ digitally-switched~~
+
+r:
+
+e:
+
+s:
+~so~ silicon oxide ~~
+~ss~ stereo-scopic images~~
+
+f:
+~fp~ frequency plans~~
+~fpd~ flat panel display ~~
+
+t:
+~toss~ Those skilled in the art ~~
+~ty~ typically~~
+~tf~ thin film ~~
+
+g:
+~gy~ generally ~~
+
+u:
+~uy~ usually ~~
+
+~uc~ unit cell~~
+
+h:
+~ip~ in proximity with~~
+
+v:
+
+i:
+~ip~ is provided for ~~
+
+w:
+
+j:
+
+x:
+
+k:
+
+y:
+
+l:
+~lcd~ Liquid Crystal Display (LCD)~~
+~lc~ liquid crystal~~
+~lca~ liquid crystal material~~
+~lar~ left and right ~~
+
+
+z:
+
+m:
+~mp~ more probable ~~
+~mc~ memory cell~~
+/:
+
+n:
+
+':
+~'~ appropriate~~
+z1234   (Alt-CTRL /)
+
+100:
+1:
+@~100~ system~~
+!:
+
+2:
+
+=:
+
+3:
+
+#:
+
+4:
+
+$:
+
+5:
+
+%:
+
+6:
+
+^:
+
+7:
+
+&:
+
+8:
+
+*:
+
+9:
+
+(:
+
+0:
+
+):
+
+-:
+
+_:
+
+<:
+
+<:
+
+':
+
+":
+
+.:
+
+>:
+
+:
+
++:
+
+[:
+
+{:
+
+]:
+
+}:
+
+\:
+
+|:
+
+:
+
+:
+
+.:
+
+/:
+
+
+
+@
+@
+
+
+
+
+
+LOWER CASE SHORT ABBREVIATIONS			
+
+a:
+~a~ material~~
+o:
+~o~ output~~ oxide~~
+b:
+~b~ user's mobile device ~~ atoms~~
+p:
+~p~ patrons~~ subpixel~~ pixel unit~~ 
+plastic~~ power~~ programm~~
+c:
+~c~ current~~ customer~~  configuration ~~ 
+computer~~
+q:
+~q~ transistor~~ request~~ acquire~~ 
+d:
+~d~ device ~~ data~~   drain~~dielectric~~
+r:
+~r~ resource~~ remotely~~ are ~~ 
+structure~~
+e:
+~e~ end user experience ~~ register~~
+s:
+~s~ skateboard ~~ source~~ substrate~~ 
+silicon ~~
+f:
+~f~ flux ~~ flexible~~ function~~
+t:
+~t~ terminal~~ thickness~~ transparent~~ 
+g:
+~g~ Fig.~~ gate~~
+u:
+~u~ user ~~ unit~~
+h:
+~h~ horizontal~~
+v:
+~v~ vertical~~ virtual ~~ vehicle ~~ 
+voltage~~
+i:
+~i~ input~~ insulator~~ initial ~~
+w:
+~w~ with~~ whether ~~ 
+j:
+~j~ image ~~ interconnect~~ information~~
+x:
+~x~ proximate ~~ pixel~~ context~~ 
+substrate~~ 
+k:
+~k~ control~~ clock~~
+y:
+~y~ system~~ circuit~~
+l:
+~l~ locally ~~ location ~~ lamps~~ able~~
+z:
+~z~ signal~~ substrate~~ 
+m:
+~m~ magnetic ~~on-map ~~ memory ~~
+/:
+
+n:
+~n~ multiplexer~~ nitrogen~~
+':
+~'~ approximate~~ appropriate~~
+z1234    (Alt-CTRL /)
+
+UPPER CASE SHORT ABBREVIATIONS
+
+A:
+~A~ automatically ~~ associated~~
+O:
+~O~ orientation~~ oxygen ~~
+B:
+~B~ substantially ~~
+P:
+~P~ P/PAS emitting~~ patrons~~ 
+pattern~~ propagat~~
+C:
+~C~ CoMTL's circle~~ Corman ~~ correlation 
+~~ capacitance~~ configurable~~
+Q:
+~Q~ transistors ~~ acquiring~~
+D:
+~D~ Dankberg ~~ dielectric~~ dynamic~~
+R:
+~R~ There are ~~ .~~
+E:
+~E~ enterprise computer system ~~ 
+elongated~~ electric~~
+S:
+~S~ synchronized ~~ simultaneously~~ 
+supporting~~
+F:
+~F~ *Fujimura*~~ frequency~~
+T:
+~T~ temperature~~ transparent ~~
+G:
+~G~ GbLIS~~ goods/services ~~ Figs. ~~
+U:
+~U~ upper~~
+H:
+~H~ horizontally~~ laterally~~
+V:
+~V~ Vishwanath ~~ substantially ~~
+I:
+~I~ Ishikawa ~~ insulatively ~~ implement~~
+W:
+~W~ workstations ~~ Whether~~ 
+J:
+~J~ information al~~
+X:
+~X~ proximity ~~ transmission ~~ 
+preferences~~
+K:
+~K~ control ~~ CLOCK~~
+Y:
+~Y~ synchronous~~
+L:
+~L~ luminance ~~illustrated~~
+Z:
+~Z~ signals~~
+M:
+~M~ measurements~~ reprogramming ~~
+/:
+~?~ .~~
+N:
+~N~ as shown ~~ MUX~~
+':
+~'~ appropriate~~ approximate~~
+z1234   (Alt-CTRL /)
+
+OTHER SHORT ABBREVIATIONS
+
+1:
+~1~ first ~~
+!:
+~!~ first and second ~~
+2:
+~2~ second ~~
+=:
+~=~ equal to ~~ equivalent ~~
+3:
+~3~ third ~~
+#:
+~#~ number of~~
+4:
+~4~ fourth ~~
+$:
+~$~ value~~ evaluation ~~
+5:
+~5~ fifth ~~
+%:
+~%~ interest ~~ portion~~ section~~ 
+part~~
+6:
+~6~ sixth ~~
+^:
+~^~ above ~~ below ~~
+7:
+~7~ seventh~~
+&:
+~&~ combination~~ combining~~
+8:
+~8~ eighth~~
+*:
+~*~ .~~
+9:
+~9~ ninth~~
+(:
+~(~ including ~~
+0:
+~0~ tenth~~
+):
+~~)~ consisting ~~
+-:
+~-~ negative ~~
+_:
+~_~ [emphasis added]~~
+<:
+~,~ and ~~ left ~~
+<:
+~<~ less than ~~
+':
+~'~ recite~~
+":
+~"~ quoted ~~
+.:
+~.~ the ~~ right ~~
+>:
+~>~ greater than ~~
+:
+
++:
+~+~ positive ~~
+[:
+~[~ comprises~~
+{:
+~{~ couple~~
+]:
+~]~ connected to ~~
+}:
+~}~ coupled to ~~
+\:
+~\~ connection ~~
+|:
+~|~ operatively coupled to ~~
+:
+
+:
+
+.:
+
+/:
+~/~ and/or~~
+z1234    (Alt-CTRL /)
+
+
+LOWER CASE SPACE+ ABBREVIATIONS			
+
+a:
+~ a~ application ~~	 about ~~
+o:
+~ o~ output signal~~
+b:
+~ b~ amended ~~ amendment ~~
+p:
+~ p~ portion ~~ portion of ~~
+c:
+~ c~ corresponding ~~
+q:
+~ q~ [Question: correct?] ~~position~~ .~~
+d:
+~ d~ discloses ure~~ respectively~~
+r:
+~ r~ respective~~ respectively ~~
+e:
+~ e~ relatively~~ relative~~ represent~~
+s:
+~ s~ said ~~ .~~
+f:
+~ f~ function~~
+t:
+~ t~ through~~
+g:
+~ g~ paragraph~~
+u:
+~ u~ structured~~
+h:
+~ h~ having~~
+v:
+~ v~ wherein ~~
+i:
+~ i~ include~~ implement~~
+w:
+~ w~ where ~~ .~~
+j:
+~ j~ page~~
+x:
+~ x~ reference~~
+k:
+~ k~ column~~
+y:
+~ y~ because ~~
+l:
+~ l~ line~~
+z:
+~ z~ signal~~
+m:
+~ m~ means ~~
+/:
+~  ~ space ~~
+n:
+~ n~ given~~ invention~~
+':
+~ '~ approximate~~
+z1234    (Alt-CTRL /)
+
+UPPER CASE SHORT ABBREVIATIONS
+
+A:
+~ A~ Applicant ~~  		 .~~
+O:
+~ O~ one or more ~~
+B:
+~ B~ substantially ~~
+P:
+~ P~ plurality of ~~
+C:
+~ C~ Claim ~~
+Q:
+~ Q~ Referring to ~~
+D:
+~ D~ Office action ~~ .~~
+R:
+~ R~ receive ing~~ rejection~~ 
+represent~~
+E:
+~ E~ embodiment ~~
+S:
+~ S~ relative ~~
+F:
+~ F~ functionality~~
+T:
+~ T~ time period ~~
+G:
+~ G~ Paragraph~~
+U:
+~ U~ configured~~
+H:
+~ H~ having ~~
+V:
+~ V~ substantially ~~
+I:
+~ I~ implemented~~
+W:
+~ W~ whether~~
+J:
+~ J~ Page~~
+X:
+~ X~ cross sectional view~~
+K:
+~ K~ Column~~
+Y:
+~ Y~ Y axis~~
+L:
+~ L~ illustrated~~
+Z:
+~ Z~ SIGNAL~~
+M:
+~ M~ merely~~
+/:
+~ /~ QUESTION: ~~
+N:
+~ N~ (not shown)~~
+':
+~'~ about ~~
+z1234    (Alt-CTRL /)
+            
+
+OTHER SHORT ABBREVIATIONS
+
+1:
+~ 1~ (Original) ~~
+!:
+~ [~ [~~
+2:
+~ 2~ (Previously Presented)~~
+=:
+
+3:
+~ 3~ (Currently Amended) ~~
+#:
+
+4:
+~ 4~ (Withdrawn)~~
+$:
+
+5:
+~ 5~ (as amended)~~
+%:
+
+6:
+~ 6~ (as amended herein)~~
+^:
+
+7:
+~ 7~ .~~
+&:
+
+8:
+~ 8~ .~~
+*:
+
+9:
+~ 9~ .~~
+(:
+~ (~ including ~~
+0:
+~ 0~ .~~
+):
+~ )~ consisting ~~
+-:
+
+_:
+
+<:
+
+<:
+
+':
+
+":
+
+.:
+
+>:
+
+:
+
++:
+
+[:
+
+{:
+
+]:
+
+}:
+
+\:
+
+|:
+
+:
+
+:
+
+.:
+
+/:
+
+
+			~ ]~ ]~~
+			~ -~ (Claim * has been 
+canceled.)~~
+
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+ALTERNATE SWAP TABLES
+a:
+
+
+a
+~.~ @~~
+~.~ @~~
+o:
+
+b:
+
+p:
+
+c:
+
+q:
+
+d:
+
+r:
+
+e:
+
+s:
+
+f:
+
+t:
+
+g:
+
+u:
+
+h:
+
+v:
+
+i:
+
+w:
+
+j:
+
+x:
+
+k:
+
+y:
+
+l:
+
+z:
+
+m:
+
+/:
+
+n:
+
+':
+
+
+
+100:
+1:
+~100~ system~~
+!:
+
+2:
+
+=:
+
+3:
+
+#:
+
+4:
+
+$:
+
+5:
+
+%:
+
+6:
+
+^:
+
+7:
+
+&:
+
+8:
+
+*:
+
+9:
+
+(:
+
+0:
+
+):
+
+-:
+
+_:
+
+<:
+
+<:
+
+':
+
+":
+
+.:
+
+>:
+
+:
+
++:
+
+[:
+
+{:
+
+]:
+
+}:
+
+\:
+
+|:
+
+:
+
+:
+
+.:
+
+/:
+
+
+
+
+
+C:\Desk Drawers ((_C_))\50) Forms\gg Inn.Forms\zForm_Abbv.ab1234.doc	Monday, August 06, 2012
