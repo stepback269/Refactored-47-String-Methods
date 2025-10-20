@@ -1,9 +1,11 @@
-print(f'Date: 10/16_C5/2025  \t\t updated Learn 47 String methods with new ideas to present See ##NEW !!!')
+print(fr'Path = C:\Users\gideon\PycharmProjects\PythonProject\GG_Project-2_Strings_and-Files\.venv', '\n\n')
+
+print(f'Date: 10/20_D3/2025  \t\t updated Learn 47 String methods with new ideas to present See ##NEW !!!')
+
 print(f'Copied from Idently 47 List methods 4/16/2025 and modified  https://www.youtube.com/watch?v=bnSYeYFRCaA&t=108s')
-print(fr'Path = C:\Users\gideon\PycharmProjects\PythonProject\GG_Project-2_Strings_and-Files\.venv')
 print(f'Link to Old Man BACK page here: https://oldmanlearningsupport.blogspot.com')
-
-
+print(f'Google the following as ##New: "dynamic selection of string method applied to a string"')
+print(f'Import of func_02 as f2 is ##New !!, includes a get_keystroke(allowed) function')
 
 #Below copied from Scratch_01 on 10/12/2025: (and Package_03 copied into this venv)
 import inspect
@@ -20,7 +22,7 @@ from random import shuffle   #--- enable random shuffle() method
 from Package_03 import vars_01 as v  #-- google "python syntax of an import from statement"
 from Package_03 import mssgs_01 as msg
 from Package_03 import funcs_01 as fn
-
+from Package_03 import funcs_02 as f2
 
 print(f'\n(A)\t\tLearn about the {v.yy_}Python dir(object){v.z_} function here: https://www.google.com/search?q=python+dir+function&sourceid=chrome&ie=UTF-8')
 print(f'\n(B)\t\tLearn about the {v.yy_}Python help(function){v.z_} function here: https://www.geeksforgeeks.org/python/help-function-in-python/')
@@ -28,7 +30,7 @@ print(f'\n(B)\t\tLearn about the {v.yy_}Python help(function){v.z_} function her
 
 
 
-##New :
+##New : added type=SET
 
 def enum_var_methods_dict(var= str):
     ''' The built-in dir(object) function generates a list of methods recognized by the specified object.
@@ -61,13 +63,17 @@ def enum_var_methods_dict(var= str):
 
 fn.skip(2); fn.sl0('*=', 60); fn.skip(2)
 
+## type = STR
+
 tuple_of_dicts= enum_var_methods_dict(str)
 first_tuple = tuple_of_dicts[0]
 second_tuple = tuple_of_dicts[1]
 fn.skip(2)
 print(f'Here are the 47 methods in a first dictionary:\n{first_tuple}')
 print(f'Here is the REVERSE second dictionary:\n{second_tuple}')
+
 #breakpoint()
+## type = LIST
 
 fn.skip(2); fn.sl0('*=', 60); fn.skip(2)
 
@@ -81,9 +87,9 @@ fn.skip(2)
 
 print(f'Here are the ___ methods in a first dictionary:\n{first_tuple}')
 print(f'Here is the REVERSE second dictionary:\n{second_tuple}')
-#breakpoint()
 
-## get_string_methods_list()
+#breakpoint()
+## type = TUPLE
 
 fn.skip(2); fn.sl0('*=', 60); fn.skip(2)
 
@@ -93,8 +99,9 @@ second_tuple = tuple_of_dicts[1]
 fn.skip(2)
 print(f'Here are the ___ methods in a first dictionary:\n{first_tuple}')
 print(f'Here is the REVERSE second dictionary:\n{second_tuple}')
-#breakpoint()
 
+#breakpoint()
+## type = DICT
 
 fn.skip(2); fn.sl0('*=', 60); fn.skip(2)
 
@@ -106,8 +113,21 @@ print(f'Here are the ___ methods in a first dictionary:\n{first_tuple}')
 print(f'Here is the REVERSE second dictionary:\n{second_tuple}')
 
 #breakpoint()
+## type = SET
 fn.skip(2); fn.sl0('*=', 60); fn.skip(2)
 
+tuple_of_dicts= enum_var_methods_dict(set)
+first_tuple = tuple_of_dicts[0]
+second_tuple = tuple_of_dicts[1]
+fn.skip(2)
+
+print(f'Here are the ___ methods in a first dictionary:\n{first_tuple}')
+print(f'Here is the REVERSE second dictionary:\n{second_tuple}')
+
+fn.skip(2); fn.sl0('*=', 60); fn.skip(2)
+
+#breakpoint()
+## type = BOOL
 tuple_of_dicts= enum_var_methods_dict(bool)
 first_tuple = tuple_of_dicts[0]
 second_tuple = tuple_of_dicts[1]
@@ -119,11 +139,12 @@ print(f'Here is the REVERSE second dictionary:\n{second_tuple}')
 fn.skip(2); fn.sl0('*=', 60); fn.skip(2)
 
 #breakpoint()
-## create_example('capitalize', 'sample_1')
+
 n=0
-#: 1: capitalize  --> upper cases 1st letter of the string, lower case rest
+
 n+=1;
 sMethod = 'capitalize'
+sMethod_ = sMethod + '( )'
 
 def study(*samps, subject = 'String Methods', sMethod = 'capitalize', meth_ID= n):
     sMethod_ = sMethod + '()'
@@ -132,7 +153,9 @@ def study(*samps, subject = 'String Methods', sMethod = 'capitalize', meth_ID= n
     print(f'({n})\t\tBelow example shows the {v.yy_}{sMethod_} method{v.z_} applied to a set of input string samples\n\n')
     for samp in samps:
         print(f'The input string sample is this:\n\t\t{v.yy_}{samp}{v.z_}')
-        print(f'The resulting output of applying the {sMethod_} method is this:\n\t\t{v.g_}{samp.capitalize()}{v.z_}')
+        samp_dot_attr = getattr(samp, sMethod, None)
+        #Note the addition of parens to samp_dot_attr in the line below !!!!
+        print(f'The resulting output of applying the {sMethod_} method is this:\n\t\t{v.g_}{samp_dot_attr()}{v.z_}')
     print(f'Note that only the first letter has been capitalized irrespective of punctuation\n')
     print(f'What are some practical uses for the {sMethod_} function of python?\n')
 
@@ -159,10 +182,32 @@ def study(*samps, subject = 'String Methods', sMethod = 'capitalize', meth_ID= n
     fn.skip()
     return None
 
+## String Method 01 = CAPITALIZE
+
 samp_1 = 'the quick Brown fox Beat the slow turtle.'
 samp_2 = 'every Good Boy Deserves Favor'
 samp_3 = 'what goes UP Must Come down. HELLO WORLD'
 study(samp_1, samp_2, samp_3, subject = 'string methods', sMethod = 'capitalize', meth_ID= n)
+
+print(f'({n})\t\tBelow example shows the {v.yy_}{sMethod_} method{v.z_} applied to "DEBUG NEEDED HERE"')
+
+'''
+breakpoint()
+
+print(f'\t\t{v.g_}{samp_1.capitalize()}{v.z_}')   # outputs: The quick brown fox beat the slow turtle.
+print(f'All letters have been normalized to lower case???')
+print(f'What are some practical uses for the {sMethod_} function of Python?')
+
+q_Google_1 = f'What are some practical uses for the {sMethod_} function of python?'
+# q_Google_2 = f'Using the pyperclip module of Python'
+# q_Google_3 = f'Using the {sMethod} method of Python'
+
+q_W3School_1 = f'https://www.w3schools.com/python/ref_string_{sMethod}.asp'
+
+url_tail1 = f'/search?q={q_Google_1}'
+url_full = f'https://www.google.com' + url_tail1
+webbrowser.open(url_full)
+webbrowser.open(q_W3School_1)
 
 
 #: https://www.google.com/search?q=%22Stack+Exchange%22+OR+StackOverflow
@@ -171,18 +216,24 @@ study(samp_1, samp_2, samp_3, subject = 'string methods', sMethod = 'capitalize'
 # https://www.w3schools.com/python/ref_string_capitalize.asp
 #pyperclip.copy("This text will be copied to your clipboard.")
 #pyperclip.copy(q_Google_1)
-fn.skip(1)
+'''
 
-sample_1 = 'the quick Brown fox Beat the slow turtle.'
-sample_2 = 'Every Good Boy Deserves Favor'
+fn.skip(2); fn.sl0('*=', 60); fn.skip(2)
 
-#: 2: casefold      --> lower cases the string so it can be compared with other case folded string
+## String Method 02 = CASEFOLD
 n+=1;
 sMethod = 'casefold'
-sMethod_ = sMethod + '()'
+sMethod_ = sMethod + '( )'
 
-print(f'({n})\t\tBelow example shows the {v.yy_}{sMethod_} method{v.z_} applied to "the quick Brown fox Beat the slow turtle."')
-print(f'\t\t{v.g_}{sample_1.casefold()}{v.z_}')   # outputs: The quick brown fox beat the slow turtle.
+samp_1 = 'the quick Brown fox Beat the slow turtle.'
+samp_2 = 'every Good Boy Deserves Favor'
+samp_3 = 'what goes UP Must Come down. HELLO WORLD'
+study(samp_1, samp_2, samp_3, subject = 'string methods', sMethod = 'casefold', meth_ID= n)
+
+
+'''
+print(f'({n})\t\tBelow example shows the {v.yy_}{sMethod_} method{v.z_} applied to "DEBUG NEEDED HERE"')
+print(f'\t\t{v.g_}{samp_1.casefold()}{v.z_}')   # outputs: The quick brown fox beat the slow turtle.
 print(f'All letters have been normalized to lower case')
 print(f'What are some practical uses for the {sMethod_} function of Python?')
 
@@ -200,6 +251,7 @@ webbrowser.open(q_W3School_1)
 print(f'\nLOOK inside the browser for {v.yy_}Two new TABS (Google result + W3 School result) for {sMethod_}', '-='*20, f'>{v.z_}')
 
 fn.skip(5)
+'''
 
 breakpoint()
 #: 3: center        --> pads with n fill chars and centers sample_1 in whole
