@@ -1,11 +1,11 @@
 print(fr'Path = C:\Users\gideon\PycharmProjects\PythonProject\GG_Project-2_Strings_and-Files\.venv', '\n\n')
 
-print(f'Date: 10/20_D3/2025  \t\t updated Learn 47 String methods with new ideas to present See ##NEW !!!')
+print(f'Date: 10/22_E1/2025  \t\t updated Learn 47 String methods with new ideas to present See ##NEW !!!')
 
 print(f'Copied from Idently 47 List methods 4/16/2025 and modified  https://www.youtube.com/watch?v=bnSYeYFRCaA&t=108s')
 print(f'Link to Old Man BACK page here: https://oldmanlearningsupport.blogspot.com')
 print(f'Google the following as ##New: "dynamic selection of string method applied to a string"')
-print(f'Import of func_02 as f2 is ##New !!, includes a get_keystroke(allowed) function')
+print(f'Import of func_02 as f2 is ##New !!, includes a ##New get_allowed_keystroke() function')
 
 #Below copied from Scratch_01 on 10/12/2025: (and Package_03 copied into this venv)
 import inspect
@@ -32,40 +32,12 @@ print(f'\n(B)\t\tLearn about the {v.yy_}Python help(function){v.z_} function her
 
 ##New : added type=SET
 
-def enum_var_methods_dict(var= str):
-    ''' The built-in dir(object) function generates a list of methods recognized by the specified object.
-    The present enumerating function (above, named "enum_var_methods_dict" associates a method number (1-47 for string methods)
-        with each found method and appends them into a dictionary ("var_meths_dict"), the number being the key of
-        the KV pair and the method name being the 'value'. It also generates a reverse dictionary and RETURNS both dicts in a tuple.
-        Additionally, it prints the KV pairs as a tabular list, where "n_cols" is the number of columns, "w_pCol" is the width of
-        each column and "var" is the ID of the object. We use modulo math (%) to determine when to include a CRLF. '''
-
-    stepper: int = 1;   #-- steps through the columns of each row by incrementing +1
-    n_cols =3           #-- number of printed out columns
-    w_pCol = 70         #-- width per column
-    var_meths_dict = {}    #<-- start with an empty dictionary and add each found to it
-    reverse_var_dict = {}
-    print(f'\t\tBelow is a listing of methods for the data type: {var}\n')
-
-    for found_method in dir(var):
-        if '__' not in found_method:        #<-- leave out the Dunder methods
-            key = 'var_meth_#' + str(stepper)
-            var_meths_dict[key] = found_method   # goggle "python add kv pair to dict"
-            reverse_var_dict[found_method] = key
-            outp_str = f'>> {key} : {v.yy_}{found_method}{v.z_}'
-            if stepper % n_cols != 0:
-                print(f'{outp_str:<{w_pCol}}', end="")  #<-- a colon plus space is inserted as separator for each item
-            else:
-                print(f'{outp_str}')
-
-            stepper += 1
-    return var_meths_dict, reverse_var_dict
 
 fn.skip(2); fn.sl0('*=', 60); fn.skip(2)
 
 ## type = STR
 
-tuple_of_dicts= enum_var_methods_dict(str)
+tuple_of_dicts= f2.enum_var_methods_dict(str)
 first_tuple = tuple_of_dicts[0]
 second_tuple = tuple_of_dicts[1]
 fn.skip(2)
@@ -77,7 +49,7 @@ print(f'Here is the REVERSE second dictionary:\n{second_tuple}')
 
 fn.skip(2); fn.sl0('*=', 60); fn.skip(2)
 
-tuple_of_dicts= enum_var_methods_dict(list)
+tuple_of_dicts= f2.enum_var_methods_dict(list)
 first_tuple = tuple_of_dicts[0]
 second_tuple = tuple_of_dicts[1]
 fn.skip(2)
@@ -93,7 +65,7 @@ print(f'Here is the REVERSE second dictionary:\n{second_tuple}')
 
 fn.skip(2); fn.sl0('*=', 60); fn.skip(2)
 
-tuple_of_dicts= enum_var_methods_dict(tuple)
+tuple_of_dicts= f2.enum_var_methods_dict(tuple)
 first_tuple = tuple_of_dicts[0]
 second_tuple = tuple_of_dicts[1]
 fn.skip(2)
@@ -105,7 +77,7 @@ print(f'Here is the REVERSE second dictionary:\n{second_tuple}')
 
 fn.skip(2); fn.sl0('*=', 60); fn.skip(2)
 
-tuple_of_dicts= enum_var_methods_dict(dict)
+tuple_of_dicts= f2.enum_var_methods_dict(dict)
 first_tuple = tuple_of_dicts[0]
 second_tuple = tuple_of_dicts[1]
 fn.skip(2)
@@ -116,7 +88,7 @@ print(f'Here is the REVERSE second dictionary:\n{second_tuple}')
 ## type = SET
 fn.skip(2); fn.sl0('*=', 60); fn.skip(2)
 
-tuple_of_dicts= enum_var_methods_dict(set)
+tuple_of_dicts= f2.enum_var_methods_dict(set)
 first_tuple = tuple_of_dicts[0]
 second_tuple = tuple_of_dicts[1]
 fn.skip(2)
@@ -128,7 +100,7 @@ fn.skip(2); fn.sl0('*=', 60); fn.skip(2)
 
 #breakpoint()
 ## type = BOOL
-tuple_of_dicts= enum_var_methods_dict(bool)
+tuple_of_dicts= f2.enum_var_methods_dict(bool)
 first_tuple = tuple_of_dicts[0]
 second_tuple = tuple_of_dicts[1]
 fn.skip(2)
@@ -146,48 +118,13 @@ n+=1;
 sMethod = 'capitalize'
 sMethod_ = sMethod + '( )'
 
-def study(*samps, subject = 'String Methods', sMethod = 'capitalize', meth_ID= n):
-    sMethod_ = sMethod + '()'
-
-    print(f'\t\t\t\t\t\tFIRST, we are studying {v.yy_}{subject.upper()}{v.z_}\n\n')
-    print(f'({n})\t\tBelow example shows the {v.yy_}{sMethod_} method{v.z_} applied to a set of input string samples\n\n')
-    for samp in samps:
-        print(f'The input string sample is this:\n\t\t{v.yy_}{samp}{v.z_}')
-        samp_dot_attr = getattr(samp, sMethod, None)
-        #Note the addition of parens to samp_dot_attr in the line below !!!!
-        print(f'The resulting output of applying the {sMethod_} method is this:\n\t\t{v.g_}{samp_dot_attr()}{v.z_}')
-    print(f'Note that only the first letter has been capitalized irrespective of punctuation\n')
-    print(f'What are some practical uses for the {sMethod_} function of python?\n')
-
-    q_Google_1 = f'What are some practical uses for the {sMethod_} function of Python?'
-    # q_Google_2 = f'Using the pyperclip module of Python'
-    # q_Google_3 = f'Using the {sMethod} method of Python'
-
-    q_W3School_1 = f'https://www.w3schools.com/python/ref_string_{sMethod}.asp'
-
-    url_tail1 = f'/search?q={q_Google_1}'
-    url_full = f'https://www.google.com' + url_tail1
-    reponse1 = input(f'Would you like to dig deeper via Google? (y/n)\n')
-
-    if reponse1 == 'y':
-        print(f'{v.M_}Get a Notebook and take Handwritten Notes !!!{v.z_}')
-        webbrowser.open(url_full)
-        print(f'LOOK inside the browser for {v.yy_}New TAB (Google result) for {sMethod_}', '-=' * 20, f'>{v.z_}')
-    fn.skip()
-    reponse2 = input(f'Would you like to dig deeper via W3 Schools? (y/n)\n')
-    if reponse2 == 'y':
-        print(f'{v.r_}Get a Notebook and take Handwritten Notes !!!{v.z_}')
-        webbrowser.open(q_W3School_1)
-        print(f'LOOK inside the browser for {v.yy_}New TAB (W3 Schools result) for {sMethod_}', '-=' * 20, f'>{v.z_}')
-    fn.skip()
-    return None
-
 ## String Method 01 = CAPITALIZE
 
 samp_1 = 'the quick Brown fox Beat the slow turtle.'
 samp_2 = 'every Good Boy Deserves Favor'
 samp_3 = 'what goes UP Must Come down. HELLO WORLD'
-study(samp_1, samp_2, samp_3, subject = 'string methods', sMethod = 'capitalize', meth_ID= n)
+
+f2.study(samp_1, samp_2, samp_3, subject = 'string methods', sMethod = 'capitalize', meth_ID= n)
 
 print(f'({n})\t\tBelow example shows the {v.yy_}{sMethod_} method{v.z_} applied to "DEBUG NEEDED HERE"')
 
@@ -228,7 +165,8 @@ sMethod_ = sMethod + '( )'
 samp_1 = 'the quick Brown fox Beat the slow turtle.'
 samp_2 = 'every Good Boy Deserves Favor'
 samp_3 = 'what goes UP Must Come down. HELLO WORLD'
-study(samp_1, samp_2, samp_3, subject = 'string methods', sMethod = 'casefold', meth_ID= n)
+
+f2.study(samp_1, samp_2, samp_3, subject = 'string methods', sMethod = 'casefold', meth_ID= n)
 
 
 '''
